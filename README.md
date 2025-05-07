@@ -1,6 +1,8 @@
-# 💫 About Me:
+<img src="banner_github.png" alt="GitHub Banner" width="100%" />
 
-I'm currently studying at State University of Surabaya<br>I'm currently learning about backend developer with go
+# Hello World!, I'm Joufan, a Web Developer 👋🏼:
+
+🛜 currently working on my own [webpage]<br>👨🏼‍🎓 studying Informatics Engineering at State University of Surabaya<br>👨🏼‍💻 learning as a web developer since 2024 <br>
 
 # 💻 Tech Stack:
 
