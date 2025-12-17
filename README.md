@@ -1,6 +1,6 @@
-# Konnichiwa! 🇯🇵
+# こんにちは!
 
-Saya **[Nama Kamu]**, mahasiswa Teknik Informatika di **Universitas Negeri Surabaya (UNESA)** angkatan 2023.
+Saya **Joufan**, mahasiswa Teknik Informatika di **Universitas Negeri Surabaya (UNESA)** angkatan 2023.
 
 Saya mengawali perjalanan coding dari sisi Frontend (React & Next.js), tapi sekarang saya menemukan keseruan sejati di dunia **Backend Engineering** menggunakan **Golang**.
 
